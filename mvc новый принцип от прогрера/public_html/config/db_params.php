@@ -2,7 +2,7 @@
 
 return array(
 			'host' => 'localhost',
-			'dbname' => 'wargamyl_tst',
-			'user' => 'wargamyl_tst',
-			'password' => 'visacard2',
+			'dbname' => 'wargamy',
+			'user' => 'wargamy',
+			'password' => '',
 );
